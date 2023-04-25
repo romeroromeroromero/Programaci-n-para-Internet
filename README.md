@@ -1,2 +1,3 @@
-# P-One
-Good stuff resides here
+# Programación para Internet
+
+Actividades y ejercicios de la materia.
